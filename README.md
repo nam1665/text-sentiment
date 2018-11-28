@@ -14,5 +14,5 @@ python wrongcases.py
 To run the API:
 python api.py
 
-Besure to include the Firebase authentication in the api file. 
+I'm using Firbase so make sure to include the Firebase authentication in the api file. 
 
