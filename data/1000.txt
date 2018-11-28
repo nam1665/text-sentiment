@@ -1,0 +1,851 @@
+2	thầy dạy hay quá
+2	thay day hay qua
+2	nghe rõ lắm
+2	nghe ro lam
+2	muot lam
+2	mượt lắm
+2	bài giảng hay lắm
+2	camera nét lắm
+2	camera net lam
+3	không nhìn được cam
+3	khong nhin duoc cam
+3	không thấy gì cả
+1	ko nghe được bạn ơi
+1	khong nghe gi thay ay
+4	không được
+4	khong ro lam
+2	nét lắm
+2	nghe tot lam
+2	nghe ro lam
+1	giat lam minh khong nghe duoc
+1	giật lắm ấy
+1	lag lắm
+1	khó chịu lắm
+1	kho chiu lam
+3	cha thay gi ca
+2	nhìn được nhé bạn
+1	nghe rõ lắm bạn
+2	bai giang hay
+2	rat vui duoc biet ban
+2	minh rat vui
+1	vua anh nghe duoc gio ko nghe duoc tieng giao vien noi e a
+1	noi co chinh lai mic cho nhay hon ti di
+1	bạn ơi hỗ trợ anh Tùng với
+1	mic cô bị giật đó
+1	mic co giat lam
+0	we are more likely to miss things
+1	giong co nho qua
+1	i cant hear anythig
+1	lúc được lúc không
+1	e nói lớn rồi ạ
+0	Dear teacher. I listen today. Thanks
+1	nhưng sao bên e rè quá
+0	Can you send me another student who wants to talk
+1	join roi, van ko nghe
+1	I cant here you
+0	chị có thể giới thiệu đôi chút về chị được không ạ?
+0	anh Long ơi anh chọn hình tai nghe ở góc trên bên trái màn hình để kết nối giúp em ạ
+1	i can't hear you
+3	I can't see you
+3	i cant see you
+0	And send one of the other students to the other class?
+0	cho mình vào lại LS với
+0	dạ giáo viên vừa vào lớp ạ
+1	e noi thay khong nghe sao ak?
+3	pls turn off your camera
+0	b Bạn ơi, anh minh dự thính
+1	I can't hear anything teacher
+0	Students I am trying to correct the mistake
+1	em sẽ join mic giúp chị ạ
+4	Hiện tại giáo viên đang gặp chút sự cố về kĩ thuật và đang được hỗ trợ kỹ thuật. Vậy mong anh chị vui lòng chờ trong giây lát và thông cảm về sự cố này. Em cảm ơn ạ.
+1	mình ko nghe thấy từ lúc ở phòng chuyển vào lớp cơ
+1	we have some trouble with sound system ^^
+3	camera dang co van de ban oi
+3	we having some trouble with camera system
+1	ban tro giup ki thuat oi
+1	sao ko nghe thây dạy gi het
+1	sao mình nghe mọi người nói đều bị ngắt quãng :((
+2	chị nghe được
+2	các bạn ấy vẫn nghe thấy mình nói
+4	mình vào lớp rồi cú bị out ra ấy ạ
+0	co nghe chua?
+1	I can not hear you, too.
+4	I am trying to correct the issue
+1	dạ a/c Tú chưa join mic ạ
+2	chị học bt
+2	Không sao đâu c ơiiii
+0	Hello Tung are you there?
+1	em k nghe thấy gì luôn à
+4	Tung has a technical problem
+1	sorry, but i can not hear you clearly, teacher?
+0	các anh chị chờ tí để kỹ thuật hỗ trợ nha
+1	Đào join mic nhé
+3	I've had to use a different computer, so I can't put my webcam on today. Sorry
+2	em nghe anh alo ạ
+0	dạ chị Hằng đợi e một chút ạ
+0	How long does it take you on the bus to your workplace?
+1	nhu cong noi co nghe dc chua
+0	thế nào r Doan ?
+0	dạ vâng ạ
+3	hôm nay cô không dùng được webcam
+0	tam 5' nua la xong tai em dang ho tro do HV kha
+2	okay chơ chút nhé
+0	tàu điện ngầm
+1	they cannot hear me very well
+1	thy cannot hear me well
+0	mong các anh chị thông came
+1	i can't hear you, teacher
+2	i can hear you teacher
+1	anh nói lại thử nha
+1	ko nghe thầy nói, chỉ thấy hình
+1	please connect your mic/audio
+0	cho minh lop du thinh
+2	e nghe anh alo
+1	chị Quỳnh kết nối mic giúp em với ạ
+0	chuyển c vào lại lớp với
+1	vẫn k được ạ
+0	He is listening only
+4	tín hiệu của thầy ko tốt lắm
+1	Chị thúy join mic giúp em ạ
+2	thank you
+1	sorry i can't hear you
+0	I have never travelled by bus.
+0	hi . teacher
+0	chị Lan ơi
+1	teacher can you hear me?
+4	it still doesnt work
+1	i work now, so i can't use micro
+2	ừ lúc trước chị nghe đc
+1	bây giờ k nghe thây gì
+1	ko nghe gì
+1	Mọi người vẫn không nghe được đúng không ạ.
+1	Nam giúp mình check mic giáo viên nhé cô nói nghe ko rõ
+4	Tins hieu cua thay giao ko dc tot lam
+4	tín hiệu của thầy giáo không đuọc tốt lắm
+4	tin hieu cua thay khong tot
+4	tin cua thay khong tot cho lam
+4	tin cua thay khong tot
+0	private transportation
+0	Để khởi động bài học ngày hôm nay, anh/chị hãy trả lời các câu hỏi sau:
+1	van chua nghe duoc
+1	vẫn chưa nghe được
+4	nếu mình dự thính tieeps thì lớp k thể diên ra ạ
+4	neu minh du thinh tiep thi lop khong the dien ra
+0	You get on the bus.
+1	Only Miss Hằng can speak with teacher.
+1	hic, mình e ko nghe thấy gv nói j ạ/.
+1	hic, minh khong the thay giao vien noi gi ca
+1	i can't hear anything
+1	nghe cứ rè rè ý
+0	nếu không xem được video, mời các anh chị click vao chữ HERE màu đỏ
+2	video e vẫn nghe đc
+4	co bi mat mang roi !!!
+0	I have given my team viewer to my PO and he is sorting out the problem quickly
+0	Is the bus service good?
+4	tự dưng bị out ra
+4	sorry for the delay
+0	there are 2 students have name Châu in class, teacher
+2	no worry about this. we will wait for you
+4	Cô đang được hỗ trợ bởi PO ạ. Mọi người thông cảm chờ cô chút nhé
+2	no problem teacher ^^
+0	please transfer me
+2	I have checked and my audio device is perfectly working
+1	mình ko nghe thấy j
+4	sr teacher, I have just lost connection
+2	okay thanks for letting me know
+2	video vẫn xem và nghe đc
+1	mic chị có vấn đề ạ
+2	vâng ạ em đang nói lại với thầy ạ
+4	Xin lỗi anh chị, em vừa bị mất kết nối ạ !
+0	vâng chị chờ bên em chút nhé
+3	thầy sẽ thử tắt webcam để xem có tín hiệu ổn định hơn không ạ
+4	k máy chị lag chị k theo dõi đc í
+4	chị có thể tắt đi bật lại không ạ
+1	minh k nghe duoc
+0	Để bắt đầu khởi động cho buổi học hôm nay, mời anh chị cùng trả lời các cẩu hỏi sau:
+0	sorry, i'm just listen,
+2	ok c nha
+4	anh Minh đợi em 1 chút ạ đường truyền mạng của e có vấn đề
+2	minh da xemdc video
+0	Hello teacher
+0	Pls give me your teamview
+2	thanks for your help
+2	That's fine Thuy.
+1	I cannot hear Tran
+1	Hien are you there?
+2	thanks bạn
+1	We cant hear you clearly
+0	what you can ask .
+0	today i just listen
+0	- But when I leave Vietnam, I usually take the bus.
+1	dạ vâng nhưng hệ thống ADB đều lỗi ạ nên đến bên mình cũng k vào được để điều phối và giám sát lớp ADB ạ
+0	learn to focus!
+1	bạn ơi mình ko join dc mic
+0	Thuy's just listening
+1	sao của e nghe đc nhưng k nói đc vậy ạ
+0	just on holiday
+1	giọng vang lắm
+1	giọng vang lắm
+1	giong van lam
+0	chị Hằng chờ em chút ạ
+2	Thank you LAn.
+0	mình chỉ nghe thôi nhé
+4	Anh Son co o do khong a?
+4	Son are you there?
+1	CHị Quỳnh nghe thấy giọng thầy bị vang ạ?
+0	Anh, chị có thể sử dụng những câu này để hỏi
+0	cô ấy muốn đi đến Whitehall và cô ấy muốn biết cô ấy phải đi chuyến bus nào
+0	how do i know which bus to take ?
+4	chị thử tắt bớt ứng dụng chưa ạ?
+2	thans for your help
+2	thanks for your help
+1	sao Long ko nghe dc
+0	cho minh du thinh
+0	scare of traffic in rush hours
+0	ở Vietnam tôi chưa từng đi bus bao giờ
+1	chị Nhi có nghe cô nói ko ạ
+0	sao mấy ng kia lại học =))
+0	nhò huong dan giup
+0	anh Long ấn vào hình Tai nghe ở góc trái giúp em ạ
+1	i can't hear, teacher
+1	anh Công có nghe cô ko ạ
+4	chị tắt hết r í
+4	em check giúp chị chưa
+3	sao ko thấy giáo viên vậy
+1	chị k nghe thấy gì
+1	anh nói lớn lên nhé
+0	i feel noisy when i travel by bus
+0	Bây giờ đã quá giờ vào lớp mới anh/chị nào chưa tham gia vào ca học này xin vui lòng thoát ra ngoài và học ca sau giúp em ạ. Mong anh chị thông cảm ạ
+4	anh chờ chút nhé GV vừa bị out khỏi lớp r
+0	teacher, i just listen. Thanks
+0	Improve your english
+0	b hướng dẫn anh Long giúp mình với
+0	oh you have to refresh
+1	sao loa của tôi ko bật khi GV hỏi
+0	anh/ chị chuyển em vào lại lớp LS 9h với ạ
+0	lop c lam sao dy
+1	bấm tai gnhe goc trái mà ko thấy gì
+1	bam tai nghe goc trai ma khong thay gi
+1	bấm tai nghe mà không thấy gì
+3	Ms. Hang is having a technical problem so please return to her later, teacher
+0	dormitory (hoặc ngắn gọn là dorm) ạ
+0	hanoi is crowded
+0	giọng ấn hơi khó nghe đấy ạ
+4	CÒn cái này là do lỗi của Topica mình có được full rate không?
+4	mất công chị đợi từ 8h30 đến giừo
+0	em chào chị Ngân ạ
+4	bạn ơi check giúp chị lan chưa ạ?
+1	we can't hear you, Jenny
+1	hiện tại c đang bị mất mic
+4	Hiện tại giáo viên đang gặp chút sự cố về kĩ thuật và đang được hỗ trợ kỹ thuật. Vậy mong anh chị vui lòng chờ trong giây lát và thông cảm về sự cố này. Em cảm ơn ạ.
+1	chị hằng nghe được chưa a?
+2	Mong là PO sẽ hỗ trợ được cô ạ
+0	chac huy r
+0	haizz
+0	Chào anh chị, em là trợ giảng của lớp mình ngày hôm nay.Trong buổi học nếu mọi người
+2	ok chị
+0	aizzzz
+2	Yes I can
+4	Hiện tại giáo viên đang gặp 1 chút sự cố về kĩ thuật và đang được hỗ trợ kỹ thuật. Vậy mong anh chị vui lòng chờ trong giây lát và thông cảm về sự cố này. Em cảm ơn ạ.
+1	chị Hường ơi mic chị ồn quá ạ
+0	if you dont know how to multitask you will be in turmoil
+0	Tiếp theo trong phần Free-talk, anh chị sẽ vào vai và thực hành với bạn cùng lớp:
+2	ok thanks Hang
+1	các anh/chị nghe tiếng cô rõ hơn chưa ạ
+1	bạn ơi check mic chị Hường nhé
+1	not clearly
+2	I can hear you
+2	vâng tốt hơn rồi ạ
+0	in hanoi very crowd
+4	hệ thống đang lạc trôi giữa trời r :v
+0	Give clear directions
+1	em owi check giups chị mic
+1	em ơi check giúp chị mic
+1	e oi check mic cho chi
+0	chị Hường vui lòng gửi em ID và Pass Teamviewer kèm mô tả lỗi. Em cảm ơn ạ.
+0	để em gửi cho anh đường link ạ
+4	hình như chỉ Adobe lạc trôi thôi
+0	out thoy 15 mins roi
+0	can you give an introduction about yourself?
+0	Can you introduce yourself?
+0	cô xem dùm mình những câu mình dùng có đúng không ạ
+1	your voice is not stable
+1	ai nghe không rõ thì bật to loa lên nhé
+0	Hi, teacher. I’m a teaching assistant for this class today. If you need any help, please let me
+1	mình nghe thấy video nhưng không nghe thấy thầy và các bạn nói
+1	Jenny có vấn đề chị ơi
+0	Ok chị chờ em chút nhé
+1	sao em không nghe thấy gì nhỉ
+0	chi mây cần e hỗ trợ gì không ạ
+2	Ms. Hang is now ready. Please take her into the conversation. Thank you
+1	Can you hear me?
+0	em chào các anh chị ạ. Hiện tại các anh chị có nghe được
+0	ừ mình check r đang đơic chị xem video
+1	ko rõ lắm c ạ
+1	ma ko nghe gì
+0	Anh/ chị vui lòng KHÔNG TẮT teamview giúp em với ạ. Sẽ có kỹ thuật viên hỗ trợ a/c ngay ạ. em cảm ơn!
+4	Can you get help for Huong please?
+0	cho em cancel lớp vì ko có học viên
+2	mình nghe được rồi nhé
+4	ko thấy noi dung day là gì
+0	Bye bye, o day khong duoc chao don, qua 15 phut roi.
+0	She has changed something I'm sure.. it wasn't there before
+1	no i can't heR YOU
+2	dạ dc r ạ
+0	the cost of the bus
+1	van chua nghe duoc
+0	he likes the camera
+0	I am sitting still
+1	Anh bajn nghe mifnh nois ko aj
+0	bây giờ bạn ko sử dụng xe buýt nữa à?
+0	Dương and Thái listen only, teacher
+1	i can't hear you but i can see you by cam
+0	where to get the bus from and to
+0	Sorry, there is any trouble
+0	dạ vâng ạ
+0	chi HIen co o do k a
+0	I do not have much to wait FOR THE bus
+1	KHANH - Please connect mic again
+1	a đó ko nge được
+1	anh đó không nghe được
+1	anh do khong nghe duoc
+1	a do ko nghe duoc
+1	sao k noi dc ta
+1	sao không nói được ta
+1	giao vien hoi ma k thay chi tra loi a
+1	co noi ma  sao thay k nghe y
+2	dạ vâng ạ
+1	em khong nghe coo nois gif car
+0	xe có đúng giờ ko ạ
+1	Tuan can you hear me?
+1	vô roi mà ko nghe gì
+0	i finished it
+2	đấy là lý do chị học ở Topica đúng ko? để cải thiện khả năng tiếng Anh
+0	cut in bất ls nữa
+0	Mọi người không xem được có thể vào link này nhé
+1	chị Hiền nói không được á b
+1	anh Long vui lòng chờ một chút bạn PO sẽ giúp anh kết nối ạ. Anh vui lòng không tắt phần mềm teamview ạ
+1	GV giờ nói ổn hơn chưa c?
+1	CAN YOU HEAR ME
+2	okê ông ơi
+2	em cảm ơn anh
+1	no, teacher
+2	dạ vâng ạ
+2	dạ ok rồi cảm ơn b nhìu :D
+3	can yu see me
+3	can you see me
+3	bạn thấy cô chưa?
+3	ban nhin duoc cam co chua
+3	ban thay cam cua co chua
+3	ban thay cam thay chua
+3	bạn thấy cam thầy chưa
+3	có hình chưa bạn?
+3	không thấy hình
+3	minh khong thay gi ca
+3	mình không thấy gì cả
+2	ok, cam on ah nhe.
+2	Yes, i can see you
+1	no one can hear me
+4	tôi bị rớt đường truyền bay giờ vào được rồi
+2	thanks teacher
+2	Chị nghe đc rồi
+0	chị cho em xin id và pass temview ạ
+4	cứ bật lên là nó tự tắt
+4	ko ket noi dc
+4	không kết nối được
+4	cu bat la no tat
+4	cứ bật là lại tắt
+1	can you help me check Nga's mic
+1	i hear not clearly
+0	b ơi kết nói với anh Long được chưa
+1	It's difficult to hear ms Thuyf
+1	Anh I cant hear you
+4	kỹ thuật viên ơi chỉnh lại hộ đi ạ
+1	Em không nghe được cả PO và chị Anh ạ
+1	anh Long có thể nghe được chưa ạ?
+2	dạ vâng ạ
+1	nghe cô khó quá
+3	nghe dc mà ko thấy video
+4	hay là do đường truyền
+4	sao mà nay kĩ thuật kém thế nhỉ
+3	dạ thầy đã tắt video rồi ạ
+2	nghe nói bt r bạn nhé
+2	cảm ơn b :D
+3	pls turn off your camera
+0	vâng ạ
+1	I can't hear y clearly teacher
+0	protect you from head injury
+0	How freequently does the bus come?
+4	chị bị out
+4	các anh chị vui lòng chờ GV thêm chút giúp em ạ. bên em đang hỗ trợ lại GV rồi ạ
+0	Commuter: người đi làm thường xuyên bằng xe buýt/ xe ô tô
+2	ok nhé:)
+0	c cho các anh chị thảo luận giúp mình nhé
+2	ok
+0	Im busy, I just listen
+0	set a trap
+2	có nghe dc
+2	mình đang hỗ trợ r :'(
+0	cô ko biết minfhh bắt xe buýt ở vn như thế nào nhưng ví dụ như ở luân đôn buýt rất đúng giờ
+2	vâng ạ
+0	như thế thì dài quá :))
+2	em cảm ơn
+2	i can hear her ok
+1	chị mây nghe thấy em ko ạ
+0	chị đặt câu với từ comes nhé
+0	by + something (directions/location) = near, close to, next to
+1	minh k nhge thay gi
+0	trong đoạn hội thoai điểm quan trọng là chúng ta phải học được: cách hỏi và cách chỉ dẫn
+0	precious quý giá
+0	How long does it take?
+0	I think I'll channel her spirit, let her ask me a few questions that I know she would ask if she could.
+0	I go home after work
+0	do you know which bus i should take? bạn có biết tôi nên bắt xe buýt số mấy ko
+0	How much to ride the bus?
+2	I see thanks
+0	I will go back to my house after work
+0	be nice to the other bus
+4	chi Phượng có ở trong lớp không ạ?
+1	i cant hear yoy
+0	I just busy, Now i can join.
+0	to be more careful while multitasking
+0	bây giờ cô sẽ sửa lại từ chta vừa đọc
+4	ôi vẫn giật lắm
+1	mình k nghe được lắm
+0	can you write in the cahtbox - Son
+0	book tickets in advance
+0	t cũng thế
+4	hình như mạng bị rớt ạ?
+4	Gv mới đổi đường truyền
+0	what shape is his face?
+1	e ơi nghe thấy c ko e?
+4	cho mình vào lại lớp với ạ, mình bị bắn ra ngoài
+1	đợi chút r nghe lại giúp mình xem đc k Đoan nhé
+2	Đường truyền của hv tốt lắm
+0	Bây giờ, giáo viên sẽ chữa lỗi phát âm cho anh chị.
+2	chị nghe được rồi
+2	dạ vâng em cảm ơn chị
+1	minh ko nghe
+0	Anh chi sẽ có 2 phút đóng vai và trò chuyện với giáo viên.
+0	các anh chị chọn 1 chủ đề
+1	You shouldn't talk loudly.
+1	Chị Điểm mất mic rồi ạ
+2	mình có biết nhiều bạn học topica lắm
+1	huhu lại k nghe gì rồi ạ
+0	chị đặt tay vào họng
+2	van nghe teacher noi
+1	mình add bạn không được
+1	chị có thấy hiện bảng nhỏ aallow your mic không ạ?
+1	bạn ơi b check mic chị Điểm giúp mình với
+1	chị ấy bị mất mic
+1	Em xin lỗi nhưng mọi người nghe được gì không ạ
+0	dạ vâng chị giữ teamview và đợi một chút giúp em với nhé ạ
+0	Bây giờ, Thầy sẽ nhận xét cho các anh chị một số lỗi về ngữ pháp cũng như từ vựng và ngữ âm
+1	c Mây nghe được e k ạ
+1	hiện tại e chưa nghe đc c nói a
+1	c rút tai nghe ra cắm lại sau đó tắt hẳn trình duyệt đi vào lại từ đầu giúp e ạ
+2	I can hear you
+0	I think I've already answered that question
+0	I don't know what you want me to say...?
+1	I want YOU to talk
+1	co a. sao mic ko nghe duoc a
+0	cô muốn chị nói ạ
+3	sao em không thấy giáo viên nhỉ
+1	there is echo from your voice, Trung
+0	he/she/it + verb (S)
+2	thanks teacher
+2	i really like your voice, teacher!
+0	I want to go from Ha dong station to Hoan Kim lake
+0	Sau khi buổi học này kết thúc, các anh chị vui lòng ôn tập lại những gì đã học và thực hiện thêm các bàì tập như thầy đã giao nhé
+0	Cảm ơn anh chị đã tham gia buổi học ngày hôm nay, Xin chào tạm biệt
+2	Thank you everyone have a great day!
+2	thanks teacher
+2	cảm ơn các anh chị đã tgia lớp
+2	YES. THANKS TEACHER
+0	hẹn gặp lại ạ
+2	ppp, hope to see Y guys again
+2	thanks
+2	thanks teacher  for your support! hope see you soon!
+2	SEE Y AGAIN
+2	thank you teacher
+1	nghe cô nhỏ quá nên không biết cô hỏi gì ^^
+2	van nghe duoc ma
+2	Hiện tại lớp học đã kết thúc em xin phép được thoát lớp ạ. Chúc anh/chị có những giờ học hiệu quả cùng TOPICANATIVE. Em cám ơn anh/chị.
+2	thanks everyone
+0	Bây giờ sẽ giáo viên sẽ nhận xét cho anh chị một số lỗi về ngữ pháp/ từ vựng và ngữ âm.
+0	i will hangout here for a minute or two for questions
+1	i can't hear you bc that i haven't understand  your question yet, teacher ^^
+0	c du thinh truc tuyen
+1	chi kg nghe tin hieu gi het
+4	Rất xin lỗi anh/chị , hiện nay thầy giáo đã bị out và không thể quay lại ạ . Nên bên em buộc phải kết thúc lớp học ạ . Em xin lỗi về sự bất tiện này và mong anh/chị thông cảm ạ
+2	ok e
+1	anh nói rõ hơn đc ko ạ
+1	PO ơi, kiểm tra mic giúp mình được ko
+0	sắp vào lớp song ngữ h chưa vậy
+2	ok thank you Quyen
+1	mình ko nghe bạn MaiTT nói nhé
+0	Cho Lon
+0	bạn chờ chút nhé
+0	em du thinh
+1	em kiểm tra giúp chị mic
+2	Thanks all!!
+4	đã ok chưa
+1	ko nghe gi het ah
+2	I can hear you.
+0	Happy new year, chị Ngọc!!!
+0	Bây giờ, giáo viên sẽ nhận xét cho anh chị một số lỗi về ngữ pháp/ từ vựng và ngữ âm
+2	Cảm ơn anh chị về buổi học ngày hôm nay. Xin chào tạm biệt
+0	Bình vào lớp trực tuyến
+2	My husband (Ian Jonathan) siad he could hear me clearly
+1	em kiểm tra mic giúp chị nha
+2	I can hear you
+2	tks chị nhìu ạ
+4	Bạn ơi, mình vẫn bị lỗi Adobe không kết nối được
+4	cho chi vao lai lop nhe
+1	chị hiền nghe được chưa ah?
+1	bạn chờ mình chút để mình cài mic đã nhé
+4	để mình out rồi vào lại nhé
+0	Hello teacher, sorry ! I just listen today, thanks!
+0	teacher I just listen today
+0	i just listen.
+1	nghe luc duoc luc khong
+3	I can't see anything, this platform really stupid
+2	Hi Hanh nice to meet you
+0	Luyện nghe qua film và video
+0	Luyện viết, có người chấm
+2	Thank you teacher
+1	alo chị Nhung ạ??
+1	Tôi không nghe thấy gì cả
+4	không chú nhé
+2	toi nghe được rồi
+2	cảm ơn chú
+0	Em chào thầy
+0	cho minh vao lop truc tuyen. Cam on
+1	minh muon vao lop truc tuyen
+1	cho minh vao lop thao luan nhe
+1	Hà ơi cho mình hủy lớp SC 8h và LS 9h sáng nay nhé
+1	anh co nghe em noi ro ko a
+1	mình nhắn trên skype mà chưa được confirm
+0	bạn confirm giúp mình nhé
+0	mình bảo POHG rồi nhé
+2	ok cảm ơn cậu
+2	Morning I can hear you
+1	cho anh vào lớp trực tuyến
+1	alo a Long nghe đc e nói k ạ
+1	hiện tại e chưa nghe đc a nói đâu ạ
+0	em ko a
+1	a rút tai nghe ra cắm lại sau đó tắt hẳn trình duyệt đi vào lại từ đầu giúp e ạ
+0	hello are u here early ?
+1	a Việt học dự thính đúng ko ạ
+1	Hello please transfer me
+1	minh muon vao lop,
+2	Hope you are well, nice to meet you!
+2	Good morning Hung!
+1	alo c Như có trong phòng k ạ
+1	c join mic giúp e với ạ
+2	hi, im your TA, if you need anything, im ready to help :D
+1	minh phai lam the nao
+0	c Như kết nối mic giúp e với ạ
+1	there were extra slots avail, and no reply, so helping out
+0	c làm giống như trong ảnh giữa màn hình í ạ
+4	nếu k đc c cho e xin id và pass teamview để e hỗ trợ ạ
+0	minh k thay giong
+1	b tắt nhạc giúp mình ạ
+0	c cho e xin id và pass teamview với ạ
+1	cho chi vao truc tuyen
+1	bên bạn ồn quá PO k nge thấy gì ạ
+2	I can hear you
+1	cho em vao lop truc tuyen
+2	để e hỗ trợ cho chị ạ
+2	Hello Dustin, it's nice to work with you, tell me if you need any help
+1	Hi teacher , plz log back the techroom , thank you
+0	Nice to meet you too :)
+1	we cant hear u at all
+1	can you refresh
+2	Chuc e nam moi!
+2	If you need any help, please let me know.
+2	Em rất khỏe, chúc mừng năm mới thầy Dustin
+2	i will do :)
+2	minh cam on nha
+2	:)) wish i knew something about football
+2	sometimes a little translation helps, from time to time :)
+2	maybe we can go back to sleep :)
+0	maybe ;)
+2	cam on e
+0	what time is it in your place?
+1	if im not interested? lol
+4	a Tùng có đag ngồi trước máy tính k ạ
+2	nice to meet you!
+1	ko nghe
+1	on lam
+2	haha okay
+1	hiện tại e chưa nghe đc tiếng a nói nên chưa thể chuyển a đc vào lớp ạ
+1	Good Morning anf happy new year students,who of my students will only be listening today?
+1	Good morning teacher, today I just listen only. Tks
+1	em ko nghe thấy gì a ơi
+2	Ok enjoy the lesson
+1	bạn Trinh nghe mình nói ko ạ?
+4	Chào các anh/chị, hiện tại bên em đang sắp xếp và sẽ chuyển giáo viên vào lớp trong thời gian sớm nhất, anh/chị vui lòng chờ giáo viên một chút ạ . Cảm ơn anh/chị.
+4	bạn tải lại trang xem
+1	can my students hear me?
+2	ok bạn
+0	no
+1	no, teacher !
+2	i dont know :))
+1	I can't hear you
+0	Anh chị nào cần hỗ trợ kỹ thuật vui lòng gửi em ID và Pass Teamviewer kèm mô tả lỗi. Em cảm ơn ạ.
+2	you can entertain me then lol
+1	Hiep, please join your mic
+3	hi all, I've had to change my computer and can't use the webcam at the moment. My apologies.
+2	ok nhé
+0	Hi, teacher. My name is Trang – teaching assistant for this class today. If you need any help, please let me know.
+0	was asked to log in back here
+2	ok
+2	yes
+2	yes, now
+0	Good morning Trang :)
+1	now, no
+2	yes
+1	hello teacher, i only listen today
+0	How was your short holiday?
+0	Anh chị nào cần hỗ trợ kỹ thuật vui lòng gửi em ID và Pass Teamviewer kèm mô tả lỗi. Em cảm ơn ạ.
+0	5 songs and get back to sleep :)
+0	i dont know if that was included in my job :))
+0	e dang o dau?
+2	Cam on nhieu :)
+2	lol ha ha
+0	Em ở Hà Nội, thầy ở đâu ạ?
+1	XUYEN - Please connect your mid
+1	put your mic near to your mouth. it will more clearly
+4	alo c Diệu có trong phòng k ạ
+1	c kết nối mic giúp e giống như ảnh giữa màn hình với ạ
+1	I can not hear you clearly
+0	nếu k đc c cho e xin id và pass teamview để e hõ trợ cho c ạ
+1	it is ok now
+2	rồi bạn
+1	pls join mic
+2	no of course :))
+1	SAO CHI KO JOIn mic dc?
+1	anh chị ko jion mic hay trả lời mic của e thì e ko chuyển anh chị vào lớp đâu ạ
+2	minhg nghe được bạn nói nhé
+0	- I often go by bus because I don't have a motorbike.
+0	cho minh hoc du thinh
+0	lol you would with me
+0	what's the weather like there? ^^
+0	- The bus is very comfortable, and I can go anywhere at low cost.
+2	I can hear you
+1	so you cant hear you right
+0	I went for a little trip with my mom
+2	I love the winter in Hanoi so much
+1	- I HAVE never take the bus, because it's always crowded and stuck in traffic jams.
+2	no not really
+1	its hard to hear u
+1	can u hear me, xuyen
+0	I can only focus on 1
+0	- I travel by bus when I attend a local in my country.
+1	Ms. Emma,would you mind sharing your webcam,please!
+2	I can hear you
+1	Nga please look in the chat box I said this earlier
+1	check mic giup minh voi
+1	so maybe my headphone have problem
+0	i live in thailand
+1	dạ a/c Xuyến vui lòng tắt 1 tab giúp em ạ
+1	c chưa đi thực tập hử
+1	k phait tại bạn đâu
+4	Sorry! I'll be back right now !
+4	seems we dont have student
+1	bạn nói mình xem nào
+1	anh chị Xuyến có đây không ạ
+2	ok Ha no problem
+3	tại sao mình bật camera ko được nhỉ
+0	pardonn me,Ms Emma. Time allowed for this section is 4 minutes
+2	b ơi b nge nói dc r nhé
+0	nhưng lớp b chưa có hv nên bên mình chưa chuyển nha
+4	t đnag ghét đi học quá rồi đêy
+2	Oh that's great. I live in HCMC. Hope you had good time there. And hope we have good lesson today, too.
+0	Xuyen, can you hear me
+1	pls let me know if you are there
+0	me too, that is the biggest difficulty for me to travel by bus
+2	:)) haha okay, you're the first teacher i meet this 2017 so best wishes to you:))
+0	- the traffic is still moving
+2	ok nha
+0	Tiếp theo trong phần Free-talk, anh chị sẽ vào vai và thực hành với bạn cùng lớp:
+0	chị hiền cần e hỗ trợ gì ạ
+0	across the road
+1	mình vẫn nghe tiếng vongj
+0	chị Xuyến đợi chút
+0	It depend on the weather outside quite much
+0	every 20 minutes
+1	em sẽ chỉnh mic cho chị nhé
+1	b oi, lop k  co hoc vien a
+1	xin lỗi bạn :((
+0	khi nào xong thì nói mình biết với nha :D
+2	mình có
+0	Do you think what will happen if the tax on car reduces and Vietnamese people can buy cars easier?
+2	I love living in VN
+1	bạn check mic xem
+1	can you hear me?
+0	Nice to hear that. HCMC is a good choice to consider :DD
+1	mình ko nghe đc hv
+1	lúc nghe lúc không
+0	Ca này hơi ít HV nên nhiều lớp trống
+0	the most dangerous
+0	You don't need to think about WHAT you are saying
+1	I think i will quit this class, I will bought
+1	thôi bạn cố gắng dạy giúp mình nhé
+0	a new headphone
+2	I can hear you
+1	i dont know why
+2	I am still talking
+0	Bây giờ giáo viên sẽ chữa những lỗi phát âm phổ biến đối với 2 âm /s/ và /z/ cho anh chị.
+1	mình ko nghe đc hv luôn bạn ạ
+1	so i think we should quit the class, I will buy new headphone
+1	because the problem from my headphone
+4	sorry  for inconvinice
+2	thank you so much
+2	really sorry
+0	which mean of transportation do you think the safest?
+4	hv out rồi
+4	mình out luôn nhé
+1	mình ko vào lớp đc
+1	so hard with this sound
+2	I liked the atmosphere there
+1	kiem tra micro dum anh
+4	kiểm tra giúp anh
+1	nho em kiem tra micro dum anh
+4	Bạn ơi, lớp LS của mình giáo viên bị mất tín hiệu không có trong lớp nữa, và không có PO trong lớp.
+1	kiem tra micro dum anh
+2	Cám ơn nhiều
+4	nhờ kiểm tra kỹ thuật
+0	You will see the bus stop near the post office
+2	Thank you very much :)
+2	Thanks, Teacher, NgaHHTT Assistant and classmates, Have good day, hope to see next time.
+0	vì hôm nay ko có bảng đánh giá, hẹn bạn khi khác mình sẽ đánh giá tốt cho bạn. hoabn
+0	Cho mình vào lớp trực tuyến !
+1	a rút tai nghe ra cắm lại sau đó tắt hẳn trình duyệt đi vào lại từ đầu giúp e ạ
+0	bạn ơi, mình có lớp SB lúc 9g
+1	Hi I was kicked out, please transfer me back to my class :o)
+0	but that's all I need
+0	how about yours?
+1	cho minh lop truc tuyen nha
+1	please transfer me thanks
+0	giữ em Alistair nhé
+4	em oi, chi khỏng vao lop duoc, EM CHO kt HO TRO GIUP CHI NHA
+4	po oi minh ko tai dc lop adobe nay
+4	PO ơi, cho em vào lại lớp LS 9h adobe với. mình vừa bị lỗi
+0	chao ban, cho minh vao lop truc tuyen. Cam on ban
+4	load mãi k vào dc Hà ei
+4	tôi được xếp vào TT rồi nhưng ko kết nối adobe được, xếp lại cho tôi
+0	It's good to be home again :)
+0	so you live in Hanoi?
+0	Happy new year Raquel :D I'm Nguyen your assistant :D
+1	không vào duoc lop ky thuat oi
+0	Hello Teacher and everyone I would  like just to listen today, so I'm working, Thanks
+2	Nghe ro a
+4	sao m ko zô đc lớp adobe bạn ơi
+4	mình ko vào đc adb
+3	bạn ơi, mình ko hỉu sao mình share webcam ko đc ấy nhỉ, -_-
+4	nó cứ connect mãi thôi
+4	mình cũng ko vào đc adobe :((
+1	bạn giúp mình chuyển lại vào lớp với nhé. Lớp Adobe bị quay mình không vào được ạ
+0	hiện tại a chưa nói được nên e chưa thể chuyển a vào lớp được ạ
+0	Anh, chị vui lòng join mic giúp em bằng cách nhấp vào biểu tượng chiếc loa và “mic” ở góc trái màn hình ạ. Em cảm ơn!
+0	I am graduating next June
+0	sorry im late. Class ran late
+0	a cho e xin id và pass teamview để e hỗ trợ cho a ạ
+0	Is there any other students thats only listening this morning besides for Thuc and Chien?
+0	thank youn students
+0	Chào các anh chị, em là Thắng, trợ giảng của buổi học hôm nay. Trong buổi học ngày hôm nay, nếu có bất cứ câu hỏi gì các anh chị
+0	đợi điều phối T.T
+0	Are you looking forward to it?
+1	c Mây nghe được e nói k ạ
+0	i'm just listening, thanks
+1	dạ k ạ
+1	sao chị ko thấy âm thanh nhỉ?
+0	Hi, teacher. I’m Viet, the teaching assistant for this class today. If you need any help, please let me know.
+0	c học dự thính
+0	I can get a full-time job, make more money and travel wherever I want
+0	các anh/chị vui lòng Join Mic giúp em ạ
+0	hi there teacher and everyone
+0	cái phần mềm điều khiển từ xa teamviewer í ạ
+0	Why not take a few weeks (or months) to travel first?
+0	okie, thanks for joining
+0	Chào anh chị, em là Phương trợ giảng của lớp mình ngày hôm nay.Trong buổi học nếu mọi người có câu hỏi gì có thể hỏi em ah, em sẽ cố gắng giải đáp. Chúc anh chị học tốt.
+0	hello teacher, i only listen today, thanks a lot
+1	em ko nghe d chi Hà nói gì ạ
+2	I'm fine and you
+0	Hi teacher, I’m Phuong , teaching assistent for this class today. If u need any help, please let me know
+1	chị Ngọc ơi em có nghe ạ
+0	chị cần em hỗ trợ gì ko ạ
+0	Travel is my addiction and medicine at the same time
+1	i don't hear, teacher
+0	I actually plan to
+0	Hello and thanks.
+1	Please join your mic
+1	hoặc là a rút tai nghe ra cắm lại rồi tắt hẳn trình duyệ đi vào lại từ đầu giúp e ạ
+0	anh Long ơi lớp mình chưa bắt đầu ạ
+1	i can't hear you, teacger
+3	xin lỗi các bạn mình có chút sự cố về webcam nên mình xin phép ko share
+0	mình hôm nay xin học dự thính
+0	Any ideas where you wanna go?
+1	anh/chị Phương join mic iusp em nha
+0	just stay home to finish my thesis
+2	mình ghe được
+0	Hello Teacher I only listen. Thanks
+0	cho mình học dự thính lớp trựctuyeens
+0	me too
+0	cho anh vao lop thao luan
+2	Cam on em Thu nhe!
+0	Chào các anh/chị, hiện tại bên em đang sắp xếp và sẽ chuyển giáo viên vào lớp trong thời gian sớm nhất, anh/chị vui lòng chờ giáo viên một chút ạ . Cảm ơn anh/chị.
+0	Giáo viên của chúng ta hôm nay là cô Raquel
+4	bạn chuyển mình lớp Adobe nhưng mình không load nổi
+4	Mạng chậm quá hay sao
+0	bạn ơi mình kiểm tra kỹ thuật vậy là xong chưa nhỉ?
+1	để nghe và nói anh ấn vào hình Micro ở phía trên giúp em đẻ kết nối ạ
+0	Ngữ cảnh của bài học hôm nay Asking About How To Take A Bus: Hỏi Cách Bắt Xe Buýt
+0	i just listen today.
+1	ANH CHỊ VUI LÒNG KHÔNG TẮT MỞ MIC TỰ ĐỘNG, GIÁO VIÊN SẼ BẬT MIC ANH CHỊ KHI CẦN Ạ!
+0	Ngữ cảnh của bài học hôm nay là hỏi về việc bắt xe buýt
+1	mic của cô hơi bị giật bạn check dùm mình nha
+1	ko nghe duoc
+0	mình vào lớp trực tuyến
+0	cho mình vào lop song ngu
+0	okie, thanks anyway for joining
+4	HInh nhu thay giao dang co truc trac
+2	Nghe được
+0	đầu tiên các anh chị giới thiệu về mình nha
+2	nghe duoc a
+0	a vui lòng kết nối mic giúp ema j
+1	bạn ui check giúp mình cái mic vs
+1	Không biết taioj sao
+1	mình ko nghe thấy j cả
+0	Trang, pls introduce yourself
+1	I hear teacher quite soft
+0	I write down each task on a piece of paper
+2	yes i can hear you now
+0	a Đoàn cho e xin id và pass teamview với ạ
+0	Giáo viên giáo dạy lớp mình hôm nay là thầy Pearson
+0	minh hoc du thinh nha
+0	I only listen today teacher
+4	is there a problem Ngoc?
+1	but not clear
+0	a Thể học dự thính giúp e ca này nhé, tại hiện tại a k có teamview nên e chưa thể hỗ trợ đc a
+1	dạ các anh chị chờ tí e đã báo kỹ thuật check mic giáo viên ạ
+0	ok em
+1	your mic having some problem
+2	i hear you, but so low
+1	lớp ls của mình có học viên mà chưa thấy giáo viên vào lớp ạ
+0	sorry teacher i'm comeback, i wil listen :)
+0	Hi , please put me back in class - thanks
+2	i only listen. thanks
+0	pls speak louder teacher ^^
+0	Hello teacher. I am Nhung, your assistant in this section. Nice to work with you today and hope we’ll have a good class. Please talk to me anytime if you need my support.
+1	mọi người nghe cô được rõ chưa ạ
+1	Chị Nga join audio giúp em với ạ
+1	ko rõ lắm chị ơi
+0	mình xin học dự thính nhé
+0	ok bạn chừo chút
+1	Bị giật giật đúng không ạ
+0	Để khởi động buổi học, các Anh, chị hãy trả lời các câu hỏi sau:
+1	Ms Châu is only listen, teacher
+1	alo c Giang nghe đc e nói k ạ
