@@ -9,11 +9,7 @@ import datetime
 #firebase
 import pyrebase
 config = {
-  "apiKey": "",
-  "authDomain": "matar-184107.firebaseapp.com",
-  "databaseURL": "https://matar.firebaseio.com",
-  "storageBucket": "matar-184107.appspot.com",
-  "serviceAccount": "matar-184107-firebase-adminsdk-.json"
+
 }
 firebase = pyrebase.initialize_app(config)
 
